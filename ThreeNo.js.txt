@@ -1,0 +1,15 @@
+var a=897
+var b=900
+var c=1200
+if(a>=b && a>=c)
+ {
+  console.log("a is greatest number")
+  }
+   else if(b>=a && b>=c)
+    {
+      console.log("b is greatest number")
+  }
+   else
+      {
+        console.log("c is greatest number")
+     }
