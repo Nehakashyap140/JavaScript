@@ -1,0 +1,12 @@
+var n=10;
+if(n==10)
+{
+  console.log("Number is equal to Ten")
+ }
+  else if(n>10)
+  cosole.log("Number is greater than Ten")
+ } 
+ else
+ { 
+  cosole.log("Number is not equal to Ten")
+  }
