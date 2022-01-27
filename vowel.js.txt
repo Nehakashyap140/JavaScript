@@ -1,0 +1,9 @@
+var input = prompt("Enter the String");
+ if(input == a || input == i || input == o || input == u || input == s)
+  {
+    alert("Input is Vowel");
+   }
+    else
+      {
+        alert("Input is Cosonaunt");
+       }
